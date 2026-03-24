@@ -1,6 +1,6 @@
 # Solpix Store - Hệ Thống Thương Mại Điện Tử Nhiếp Ảnh Tích Hợp AI
 
-**Solpix Store** là một nền tảng thương mại điện tử chuyên sâu dành cho cộng đồng yêu nhiếp ảnh và các nhà nhiếp ảnh chuyên nghiệp. Dự án kết hợp giữa quy trình quản lý bán lẻ truyền thống và công nghệ **Trí tuệ nhân tạo (Generative AI)** hiện đại để tối ưu hóa trải nghiệm mua sắm và quản lý vận hành.
+**Solpix Store** là một nền tảng thương mại điện tử chuyên sâu dành cho cộng đồng yêu nhiếp ảnh và các nhà nhiếp ảnh chuyên nghiệp. Dự án kết hợp giữa quy trình quản lý bán lẻ hiện đại để tối ưu hóa trải nghiệm mua sắm và quản lý vận hành.
 
 ## 🚀 Các Tính Năng Chính
 
